@@ -13,5 +13,4 @@ The full thesis document can be accessed [here](https://ruor.uottawa.ca/handle/1
 
 If you wish to reference this work, please use the following citation:
 1. [Direction of Arrival Estimation of Moving Sound Sources using Deep Learning](https://ieeexplore.ieee.org/abstract/document/9806668) 
-
 2.[Characterization of Moving Sound Sources Direction-of-Arrival Estimation Using Different Deep Learning Architectures](https://ieeexplore.ieee.org/abstract/document/10040977)
